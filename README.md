@@ -129,7 +129,7 @@ This project is licensed under the MIT License.
 
 
 #myDigram
-img width="451" alt="Screenshot 2023-11-21 201533" src="https://github.com/Juju1444/Backend-REST-API-FinalProject-/assets/114010563/6a8d82b0-bbf5-41c4-8c58-356988deb5ac"
+<img width="451" alt="Screenshot 2023-11-21 201533" src="https://github.com/Juju1444/Backend-REST-API-FinalProject-/assets/114010563/6a8d82b0-bbf5-41c4-8c58-356988deb5ac">
 
 go
 
