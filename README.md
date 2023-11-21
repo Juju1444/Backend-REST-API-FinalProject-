@@ -126,13 +126,10 @@ If you would like to contribute to the project, please follow the guidelines in 
 License
 
 This project is licensed under the MIT License.
-
-
-#myDigram
-<img width="451" alt="Screenshot 2023-11-21 201533" src="https://github.com/Juju1444/Backend-REST-API-FinalProject-/assets/114010563/6a8d82b0-bbf5-41c4-8c58-356988deb5ac">
-
 go
-
-
 Make sure to replace placeholders like `<your-username>` and add the actual TypeScript code for the `Department`, `Employee`, `Role`, and `User` classes in the "Class Overview" section. Additionally, provide more specific details about your project's features, configurations, and usage based on your project's requirements.
+
+
+# myDigram
+<img width="451" alt="Screenshot 2023-11-21 201533" src="https://github.com/Juju1444/Backend-REST-API-FinalProject-/assets/114010563/6a8d82b0-bbf5-41c4-8c58-356988deb5ac">
 
