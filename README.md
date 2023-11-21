@@ -30,14 +30,14 @@ The Employee Management System is a full-stack application built with TypeScript
 
 - Frontend:
   - TypeScript
-  - React
-  - ...
+  - angular
+
 
 - Backend:
   - Java
   - Spring Boot
   - Spring Security
-  - ...
+
 
 ## Prerequisites
 
