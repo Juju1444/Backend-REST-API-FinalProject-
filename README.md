@@ -136,5 +136,4 @@ Make sure to replace placeholders like `<your-username>` and add the actual Type
 # My-Trello
 <https://trello.com/b/SSywToVY/done>
 # Use-case-Diagram
-<img width="452" alt="Screenshot 2023-11-22 125042" src="https://github.com/Juju1444/Backend-REST-API-FinalProject-/assets/114010563/322a9e59-ec91-4f24-b773-6053a491fa8b">
-
+<img width="541" alt="Screenshot 2023-11-22 140113" src="https://github.com/Juju1444/Backend-REST-API-FinalProject-/assets/114010563/214c436a-4400-4a2e-a3db-fd46bd15ed53">
